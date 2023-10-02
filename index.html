@@ -4,13 +4,78 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jackie's website</title>
+    <style>
+        body {
+            background-color: whitesmoke;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+        h1 {
+            color:blueviolet; 
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+            border:2px solid palegreen;      
+        }
+    
+        h2 { 
+            color:aquamarine;
+            border:2px solid maroon;
+        }
+        p {
+            border:2px solid lavender;
+        }
+        a {
+            border:2px solid green;
+        }
+
+        .pumpernickle { 
+            color:palevioletred;
+        }
+
+        .boldme {
+            font-weight:bold;
+        }
+        div {
+            width:80%;
+            margin:auto;
+            border:2px dotted blue;
+            padding-top: 40px;
+            display:flex;
+            background-color:antiquewhite;
+        }
+        h1 {
+            flex:1;
+            padding: 40px;
+        }
+        h2 {
+            flex:2;
+        }
+        h3 {
+            flex: 3;
+            border:2px solid green;
+            background-color: azure;
+        }
+        .hero {
+            background-image: url(chris-briggs-ajvc6krwzVk-unsplash.jpg);
+            background-position: center 40%;
+            background-size: cover;
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
+    <div class="hero">
+        <h1>welcome to my page</h1>
+        <h2>Hello</h2>
+        <h3>yoyoyo</h3>
+    </div>
 
 <tagname>some content</tagname>
 
 
     <h1>welcome to my page</h1>
+    <h2>Hello</h2>
+
+    <h2 class="pumpernickle boldme"> it's me</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, dolorem.</p>
     <a href="http://google.com">click me</a>
 
