@@ -1,0 +1,97 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&family=Space+Grotesk:wght@600&display=swap');
+
+
+
+/*
+font-family: 'EB Garamond', serif;
+font-family: 'Space Grotesk', sans-serif;
+*/
+
+
+    h1, h2, h3, h4, {
+        font-family: 'EB Garamond', serif;
+    }
+
+
+
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.hero {
+    background-image: url('images/moon.png');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+
+.left-column {felx:50%}
+
+.column {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.column img {
+    width: 100%;
+    height: auto;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #333;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    margin: 0 10px;
+}
