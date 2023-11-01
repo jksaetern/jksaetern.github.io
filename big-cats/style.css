@@ -17,6 +17,26 @@ body.subpage {
   background-repeat: repeat;
 }
 
+h1 {
+  color:black; 
+  font-family: 'Dangrek', sans-serif;
+  font-size:96px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color: #FF7F00; 
+  font-family: 'Dangrek', sans-serif;
+  font-size:36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
 h2 {
   margin:0;
 }
@@ -43,6 +63,9 @@ nav {
   border-bottom-right-radius: 30px;
   box-shadow: 4px 5px 4px 0px rgba(0, 0, 0, 0.25);
 }
+
+
+
 .lionpage nav {
   background-color: #C98C35;
 }
