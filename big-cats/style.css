@@ -37,19 +37,20 @@ h2 {
 
 h3 {
   color: #FF7F00; 
-  font-family: 'Brandon Grotesque', black;
+  font-family: 'Brandon Grotesque', bold;
   font-size:24px;
   display: flex;
 }
 
 .top {
-  font-family: 'Brandon Grotesque', black;
+  font-family: 'Brandon Grotesque', bold;
   font-size:24px;
 }
 
 .bottom {
-  font-family: 'darker grotesque', bold;
+  font-family: 'Darker Grotesque';
   font-size: 14px;
+
 }
 
 h2 {
@@ -88,6 +89,16 @@ nav {
 
 .lionpage nav {
   background-color: #C98C35;
+}
+
+.lion-male {
+  width: 296px;
+  Height: 486px;
+}
+
+.lion-female {
+  width: 204px;
+  Height: 408px;
 }
 
 .tigerpage nav {
@@ -134,7 +145,6 @@ nav li a:hover {
 .cat-hover {
   display: none;
 }
-
 
 .border {
   border: 1px solid black;
@@ -184,8 +194,9 @@ nav li a:hover {
 }
 .glance div {
   flex:1;
-  padding: 64px 20px
+  padding: 30px 20px
 }
+
 .glance h2 {
   position:absolute;
   background-color:#FF7F00;
@@ -193,12 +204,12 @@ nav li a:hover {
   padding:8px 6px;
 }
 .glance h2.top {
-  top:-30px;
-  left:0;
+  top:0px;
+  left:-1;
 }
 .lionpage .glance h2.bottom {
-  bottom:-58px;
-  left:0;
+  bottom: -73px;
+  left: -1px;
 }
 .lionpage .glance h2 { 
   background-color:#C98C35;
