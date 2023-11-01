@@ -101,6 +101,21 @@ nav {
   Height: 408px;
 }
 
+.flex-column {
+  display: flex;
+  flex-wrap:wrap;
+}
+
+.male {
+  width: 296px;
+  Height:486px;
+}
+
+.female {
+  width: 204px;
+  height: 408px;
+}
+
 .tigerpage nav {
   background-color: #FF7F00;
 }
