@@ -1,0 +1,123 @@
+* {box-sizing: border-box;}
+img {width:100%;}
+
+body {
+  background-color: #ADD9DE;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+nav {
+  background-color: #ADD9DE;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.30));
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 0 10px;
+}
+
+.logo {
+  width:165px;
+  height:165px;
+  background-color:#ADD9DE;
+  border-radius:50%;
+  padding:16px;
+  margin-top:90px;
+}
+.logo img {
+  display: block;
+  margin: 0 auto;
+  height:133px;
+}
+
+.button {
+  background-color:#FFA500;
+  color: white;
+  border-radius:38px;
+  padding: 8px 16px;
+  display:inline-block;
+  box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.30);
+}
+
+.red-btn {
+  background-color:#FF0000;
+  box-shadow: none;
+}
+.center {
+  text-align:center;
+}
+.two-column-header {
+  display: flex;
+}
+.two-column-header .left-column {
+  text-align:center;
+  padding:20px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.two-column-header .right-column {
+  background-image: url('images/screeprint.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height:645px;
+  z-index:-1;
+}
+
+.left-column, .right-column {
+  flex: 1;
+}
+
+.left-column h1 {
+  text-align: center;
+}
+
+
+.background-section {
+  min-height: 897px;
+  background: url('images/apparel-hero.png') center/cover;
+  color: white;
+  padding:60px;
+  padding-top: 300px;
+  margin-top:-160px;
+  z-index:99;
+
+}
+
+.shop-section {
+  text-align: center;
+  padding: 20px;
+  display:flex;
+}
+.shop-section div {
+  flex:1;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  display:flex;
+  padding:40px;
+  justify-content: space-around;
+}
+footer div {
+  flex:1;
+}
