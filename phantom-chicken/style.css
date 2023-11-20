@@ -93,6 +93,7 @@ h3 {
 .two-column-header .right-column {
   background-image: url('images/screeprint.png');
   background-repeat: no-repeat;
+  flex: 20%;
   background-size: cover;
   min-height:645px;
   z-index:-1;
