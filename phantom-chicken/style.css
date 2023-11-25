@@ -141,6 +141,11 @@ h3 {
   height: auto;
 }
 
+.portfolio-img {
+width: 261.58;
+height: 402.13;
+}
+
 footer {
   display:flex;
   padding:40px;
