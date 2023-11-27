@@ -317,17 +317,7 @@ footer div {
   background-position: 50% 50%;
 }
 
-.quote .overlap {
-  position: absolute;
-  width: 542px;
-  height: 56px;
-  top: 136px;
-  left: 449px;
-  background-color: #f8f8ff;
-  border-radius: 2px;
-  border: 2px solid;
-  border-color: #0c0c0c;
-}
+
 
 .quote .subtitle {
   width: 81px;
@@ -843,7 +833,7 @@ footer div {
   height: 1145px;
   top: 966px;
   left: 0;
-  background-image: url('images/shop-redbg.png');
+  background-image: url("images/shop-redbg.png");
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -863,6 +853,16 @@ footer div {
   top: 0;
   left: 0;
   object-fit: cover;
+}
+
+.shop .rectangle {
+  position: absolute;
+  width: 441px;
+  height: 55px;
+  top: 677px;
+  left: 0;
+  background-color: #f8f8ff;
+  border-radius: 0px 0px 5px 5px;
 }
 
 .shop .text-wrapper {
@@ -1067,4 +1067,3 @@ footer div {
   top: 48px;
   left: 256px;
 }
-
