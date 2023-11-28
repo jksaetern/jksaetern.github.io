@@ -837,7 +837,7 @@ footer div {
   position: relative;
 }
 
-.shop .overlap-group {
+.shop .featured-products {
   position: absolute;
   width: 1440px;
   height: 1145px;
@@ -848,7 +848,7 @@ footer div {
   background-position: 50% 50%;
 }
 
-.shop .overlap {
+.shop .products {
   position: absolute;
   width: 442px;
   height: 732px;
