@@ -212,7 +212,7 @@ footer div {
   line-height: normal;
 }
 
-.about-us .text-wrapper {
+.about-us .bawwk {
   position: absolute;
   top: 411px;
   left: 356px;
@@ -239,7 +239,7 @@ footer div {
   line-height: normal;
 }
 
-.about-us .text-wrapper-2 {
+.about-us .info {
   position: absolute;
   width: 728px;
   top: 586px;
@@ -252,7 +252,7 @@ footer div {
   line-height: normal;
 }
 
-.about-us .overlap-group {
+.about-us .story {
   height: 1150px;
   top: 697px;
   position: absolute;
@@ -307,7 +307,7 @@ footer div {
   position: relative;
 }
 
-.quote .overlap-group {
+.quote .request-form {
   position: absolute;
   width: 1440px;
   height: 870px;
@@ -317,7 +317,7 @@ footer div {
   background-position: 50% 50%;
 }
 
-.quote .overlap {
+.quote .namebox {
   position: absolute;
   width: 542px;
   height: 56px;
@@ -344,7 +344,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .subtitle-wrapper {
+.quote .emailbox {
   position: absolute;
   width: 542px;
   height: 56px;
@@ -370,7 +370,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .div-wrapper {
+.quote .phonebox {
   position: absolute;
   width: 542px;
   height: 56px;
@@ -382,7 +382,7 @@ footer div {
   border-color: #0c0c0c;
 }
 
-.quote .subtitle-2 {
+.quote .request-form-text {
   height: 36px;
   top: 80px;
   left: 450px;
@@ -396,7 +396,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .overlap-2 {
+.quote .image-upload {
   position: absolute;
   width: 487px;
   height: 109px;
@@ -417,7 +417,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .subtitle-3 {
+.quote .image-upload-text {
   width: 487px;
   height: 40px;
   top: 0;
@@ -432,7 +432,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .text-wrapper-2 {
+.quote .max {
   position: absolute;
   width: 360px;
   top: 542px;
@@ -445,7 +445,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .overlap-3 {
+.quote .imageupload {
   position: absolute;
   width: 542px;
   height: 58px;
@@ -476,7 +476,7 @@ footer div {
   border: 2px solid;
 }
 
-.quote .text-wrapper-3 {
+.quote .choose-file {
   position: absolute;
   height: 25px;
   top: 15px;
@@ -489,7 +489,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .text-wrapper-4 {
+.quote .no-file {
   position: absolute;
   height: 25px;
   top: 15px;
@@ -502,7 +502,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .overlap-4 {
+.quote .apparel-choice {
   position: absolute;
   width: 542px;
   height: 58px;
@@ -510,7 +510,7 @@ footer div {
   left: 449px;
 }
 
-.quote .text-wrapper-5 {
+.quote .front-img {
   position: absolute;
   height: 25px;
   top: 597px;
@@ -523,7 +523,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .text-wrapper-6 {
+.quote .back-img {
   position: absolute;
   height: 25px;
   top: 724px;
@@ -536,7 +536,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .text-wrapper-7 {
+.quote .request {
   position: absolute;
   top: 167px;
   left: 464px;
@@ -585,15 +585,15 @@ footer div {
   line-height: normal;
 }
 
-.quote .text-wrapper-8 {
+.quote .list-style {
   color: #0c0c0c;
 }
 
-.quote .text-wrapper-9 {
+.quote .catalog {
   color: #ffa500;
 }
 
-.quote .text-wrapper-10 {
+.quote .choice1 {
   width: 314px;
   top: 1495px;
   position: absolute;
@@ -606,7 +606,7 @@ footer div {
   line-height: normal;
 }
 
-.quote .subtitle-4 {
+.quote .apparel {
   width: 487px;
   height: 40px;
   top: 1361px;
@@ -621,7 +621,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .subtitle-5 {
+.quote .quantity {
   width: 487px;
   height: 40px;
   top: 1752px;
@@ -636,7 +636,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .overlap-5 {
+.quote .example-box {
   position: absolute;
   width: 541px;
   height: 56px;
@@ -648,7 +648,7 @@ footer div {
   border-color: #add9de;
 }
 
-.quote .text-wrapper-11 {
+.quote .example-text {
   position: absolute;
   width: 314px;
   top: 13px;
@@ -673,7 +673,7 @@ footer div {
   border: 2px solid;
 }
 
-.quote .text-wrapper-12 {
+.quote .choice2 {
   top: 1612px;
   position: absolute;
   left: 451px;
@@ -745,7 +745,7 @@ footer div {
   border-color: #0c0c0c;
 }
 
-.quote .text-wrapper-14 {
+.quote .pieces1 {
   position: absolute;
   width: 267px;
   top: 1816px;
@@ -759,7 +759,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .text-wrapper-15 {
+.quote .pieces2 {
   position: absolute;
   width: 267px;
   top: 2027px;
@@ -773,7 +773,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .text-wrapper-16 {
+.quote .pieces3 {
   position: absolute;
   width: 267px;
   top: 1884px;
@@ -787,7 +787,7 @@ footer div {
   white-space: nowrap;
 }
 
-.quote .text-wrapper-17 {
+.quote .pieces4 {
   position: absolute;
   width: 267px;
   top: 1952px;
@@ -875,7 +875,7 @@ footer div {
   border-radius: 0px 0px 5px 5px;
 }
 
-.shop .text-wrapper {
+.shop .jovian {
   position: absolute;
   top: 688px;
   left: 20px;
@@ -888,7 +888,7 @@ footer div {
   white-space: nowrap;
 }
 
-.shop .text-wrapper-2 {
+.shop .jovian-price {
   left: 360px;
   position: absolute;
   top: 688px;
@@ -902,7 +902,7 @@ footer div {
   white-space: nowrap;
 }
 
-.shop .overlap-2 {
+.shop .featured-section {
   position: absolute;
   width: 442px;
   height: 732px;
@@ -910,7 +910,7 @@ footer div {
   left: 239px;
 }
 
-.shop .text-wrapper-3 {
+.shop .anarchist {
   position: absolute;
   top: 688px;
   left: 16px;
@@ -923,7 +923,7 @@ footer div {
   white-space: nowrap;
 }
 
-.shop .text-wrapper-4 {
+.shop .anarchist-price {
   left: 373px;
   position: absolute;
   top: 688px;
@@ -961,7 +961,7 @@ footer div {
   object-fit: cover;
 }
 
-.shop .text-wrapper-5 {
+.shop .gift-shop {
   position: absolute;
   top: 187px;
   left: 303px;
@@ -990,7 +990,7 @@ footer div {
   line-height: normal;
 }
 
-.shop .text-wrapper-6 {
+.shop .these-chicken {
   position: absolute;
   width: 393px;
   top: 245px;
@@ -1020,7 +1020,7 @@ footer div {
   left: 513px;
 }
 
-.shop .text-wrapper-7 {
+.shop .art-prints {
   position: absolute;
   top: 812px;
   left: 167px;
@@ -1034,7 +1034,7 @@ footer div {
   white-space: nowrap;
 }
 
-.shop .text-wrapper-8 {
+.shop .apparel {
   position: absolute;
   top: 812px;
   left: 663px;
@@ -1048,7 +1048,7 @@ footer div {
   white-space: nowrap;
 }
 
-.shop .text-wrapper-9 {
+.shop .screen-print {
   position: absolute;
   top: 812px;
   left: 996px;
