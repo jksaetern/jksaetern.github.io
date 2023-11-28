@@ -317,7 +317,17 @@ footer div {
   background-position: 50% 50%;
 }
 
-
+.quote .overlap {
+  position: absolute;
+  width: 542px;
+  height: 56px;
+  top: 136px;
+  left: 449px;
+  background-color: #f8f8ff;
+  border-radius: 2px;
+  border: 2px solid;
+  border-color: #0c0c0c;
+}
 
 .quote .subtitle {
   width: 81px;
