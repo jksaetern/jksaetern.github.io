@@ -1099,7 +1099,6 @@ footer div {
 }
 
 .apparel-info .div {
-
   overflow: hidden;
   width: 1440px;
   height: 3397px;
@@ -1300,7 +1299,14 @@ footer div {
   object-fit: cover;
 }
 
-
+.apparel-info .howscreenprint {
+  position: absolute;
+  width: 441px;
+  height: 587;
+  top: 2606px;
+  left: 794px;
+  object-fit: cover;
+}
 
 .apparel-info .fabric {
   position: absolute;
