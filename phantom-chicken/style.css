@@ -1092,7 +1092,6 @@ footer div {
 }
 
 .apparel-info {
-  background-color: #add9de;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -1100,7 +1099,7 @@ footer div {
 }
 
 .apparel-info .div {
-  background-color: #add9de;
+
   overflow: hidden;
   width: 1440px;
   height: 3397px;
@@ -1150,24 +1149,6 @@ footer div {
   height: 157px;
   top: 3240px;
   left: 0;
-  object-fit: cover;
-}
-
-.apparel-info .howscreenprint {
-  position: absolute;
-  width: 441px;
-  height: 587px;
-  top: 2606x;
-  left: 794;
-  object-fit: cover;
-}
-
-.apparel-info .fabric {
-  position: fixed;
-  width: 715px;
-  height: 573;
-  top: 712px;
-  left: 80px;
   object-fit: cover;
 }
 
@@ -1316,5 +1297,16 @@ footer div {
   height: 497;
   top: 2042px;
   left: 207px;
+  object-fit: cover;
+}
+
+
+
+.apparel-info .fabric {
+  position: absolute;
+  width: 715px;
+  height: 573;
+  top: 712px;
+  left: 80px;
   object-fit: cover;
 }
