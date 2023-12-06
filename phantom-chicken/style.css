@@ -112,27 +112,6 @@ h3 {
   margin-top: -100px;
 }
 
-.apparel-two-column-header {
-  display: flex;
-}
-
-.apparel-two-column-header .right-column {
-  background-image: url('images/apparel-shirts.png');
-  background-repeat: no-repeat;
-  flex: 10%;
-  background-size: cover;
-  min-height:578.17px;
-  z-index:-1;
-}
-
-.apparel-left-column, .right-column {
-  flex: 1;
-}
-
-.apparel-left-column h1 {
-  text-align: center;
-  margin-top: 100px;
-}
 
 .background-section {
   min-height: 897px;
@@ -1180,7 +1159,7 @@ footer div {
 }
 
 .apparel-info .rectangle {
-  position: absolute;
+  position: flex;
   width: 635px;
   height: 586px;
   top: 0;
@@ -1217,10 +1196,9 @@ footer div {
 .apparel-info .apparel-shirts {
   position: absolute;
   width: 806px;
-  height: 579;
-  top: 7px;
+  height: 590px;
+  top: 0px;
   left: 634px;
-  object-fit: cover;
 }
 
 .apparel-info .text-wrapper-5 {
