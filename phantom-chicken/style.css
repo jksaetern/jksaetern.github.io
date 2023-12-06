@@ -1090,3 +1090,231 @@ footer div {
   top: 48px;
   left: 256px;
 }
+
+.apparel-info {
+  background-color: #add9de;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width 100%;
+}
+
+.apparel-info .div {
+  background-color: #add9de;
+  overflow: hidden;
+  width: 1440px;
+  height: 3397px;
+  position: relative
+}
+
+.apparel-info .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 649px;
+  top: 1341px;
+  left: 0;
+  background-image: url(./images/sizing.png);
+  background-size: cover;
+  background-position: 50%; 50%;
+}
+
+.apparel-info .apparel-catalogue {
+  position: absolute;
+  width: 394px;
+  top: 269px;
+  left: 133px;
+  font-family: "rooney-sans";  
+  color: #f8f8ff;
+  font-size: 18px;
+}
+
+.apparel-info .text-wrapper {
+  font-family: "rooney-sans";
+  color: #f8f8ff;
+  font-size: 18px;  
+}
+
+.apparel-info .text-wrapper-2 {
+  position: absolute;
+  width: 294px;
+  top: 221px;
+  left: 133px;
+  font-family: "marvin-round";
+  color: #f8f8ff;
+  font-size: 28px;
+}
+
+.apparel-info .apparel-footer {
+  position: absolute;
+  width: 1440px;
+  height: 157px;
+  top: 3240px;
+  left: 0;
+  object-fit: cover;
+}
+
+.apparel-info .howscreenprint {
+  position: absolute;
+  width: 441px;
+  height: 587px;
+  top: 2606x;
+  left: 794;
+  object-fit: cover;
+}
+
+.apparel-info .fabric {
+  position: fixed;
+  width: 715px;
+  height: 573;
+  top: 712px;
+  left: 80px;
+  object-fit: cover;
+}
+
+.apparel-info .fabric-content {
+  position: absolute;
+  width: 366px;
+  top: 865px;
+  left: 930px;
+  font-family: "rooney-sans";  
+  color: #0c0c0c;
+  font-size: 18px;
+}
+
+.apparel-info .text-wrapper-3 {
+  position: absolute;
+  width: 294px;
+  top: 818px;
+  left: 930px;
+  font-family: "marvin-round";  
+  color: #0c0c0c;
+  font-size: 28px;
+}
+
+.apparel-info .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 586px;
+  top: 60px;
+  left: 0;
+}
+
+.apparel-info .rectangle {
+  position: absolute;
+  width: 635px;
+  height: 586px;
+  top: 0;
+  left: 0;
+  background-color: #FFA500;
+}
+
+.apparel-info .see-our-suppliers {
+  position: absolute;
+  width: 345px;
+  top: 205px;
+  left: 127px;
+  font-family: "rooney-sans";  
+  color: #0c0c0c;
+  font-size: 18px;
+}
+
+.apparel-info .span {
+  font-family: "rooney-sans";
+  color: #0c0c0c;
+  font-size: 18px;
+}
+
+.apparel-info .text-wrapper-4 {
+  position: absolute;
+  width: 294px;
+  top: 166px;
+  left: 127px;
+  font-family: "marvin-round";  
+  color: #0c0c0c;
+  font-size: 28px;
+}
+
+.apparel-info .apparel-shirts {
+  position: absolute;
+  width: 806px;
+  height: 579;
+  top: 7px;
+  left: 634px;
+  object-fit: cover;
+}
+
+.apparel-info .text-wrapper-5 {
+  position: absolute;
+  top: 49px;
+  left: 31px;
+  text-shadow: 2px 4px 2px #00000040;
+  font-family: "marvin-round";  
+  color: #0c0c0c;
+  font-size: 48px;
+}
+
+.apparel-info .rectangle-2 {
+  position: absolute;
+  width: 1445px;
+  height: 20px;
+  top: 647px;
+  left: -4px;
+  background-color: #F8F8FF;
+}
+
+.apparel-info .overlap-2 {
+  position: absolute;
+  width: 488px;
+  height: 178px;
+  top: 2153px;
+  left: 795px;
+}
+
+.apparel-info .we-will-need {
+  position: absolute;
+  width: 488px;
+  top: 40px;
+  left: 0px;
+  font-family: "rooney-sans";  
+  color: #0c0c0c;
+  font-size: 18px;
+}
+
+.apparel-info .text-wrapper-6 {
+  position: absolute;
+  width: 294px;
+  top: 0;
+  left: 0;
+  font-family: "marvin-round";  
+  color: #0c0c0c;
+  font-size: 28px;
+}
+
+.apparel-info .everything-here {
+  position: absolute;
+  width: 431px;
+  top: 2830px;
+  left: 142px;
+  font-family: "rooney-sans";  
+  color: #0c0c0c;
+  font-size: 18px;
+}
+
+.apparel-info .p {
+  position: absolute;
+  width: 551px;
+  top: 2750px;
+  left: 139px;
+  font-family: "marvin-round";  
+  color: #0c0c0c;
+  font-size: 28px;
+}
+
+.apparel-info .chckn-blkwht {
+  position: absolute;
+  width: 393px;
+  height: 497;
+  top: 2042px;
+  left: 207px;
+  object-fit: cover;
+}
