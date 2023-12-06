@@ -179,7 +179,7 @@ footer div {
 }
 
 .about-us {
-  background-color: #f8f8ff;
+  background-color: #ffa500;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -187,21 +187,24 @@ footer div {
 }
 
 .about-us .div {
-  background-color: #f8f8ff;
   width: 1440px;
-  height: 1847px;
+  height: 1775px;
   position: relative;
 }
 
-.about-us .herobanner {
-  height: 376px;
-  background-image: url('images/aboutheader.png');
+.about-us .white-bg {
+  position: absolute;
   width: 1440px;
+  height: 1532px;
+  top: 230px;
+  left: 0;
+  background-image: url('images/about-bg.png');
 }
+
 
 .about-us .the-story-of-phantom {
   position: absolute;
-  top: 172px;
+  top: 150px;
   left: 458px;
   font-family: "Marvin Round";
   font-weight: 400;
@@ -237,6 +240,17 @@ footer div {
   font-size: 22px;
   letter-spacing: 0;
   line-height: normal;
+}
+
+.about-us .the-story-of-phantom {
+  position: absolute;
+  top: 0px;
+  left: 458px;
+  font-family: "marvin-round";
+  color: #0c0c0c
+  font-size: 55px;
+  text-align: center;
+
 }
 
 .about-us .info {
@@ -277,7 +291,7 @@ footer div {
   position: absolute;
   width: 1440px;
   height: 165px;
-  top: 985px;
+  bottom: 0;
   left: 0;
   object-fit: cover;
 }
