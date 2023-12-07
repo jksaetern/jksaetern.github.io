@@ -203,9 +203,6 @@ footer div {
   color: #1e1e1e;
   font-size: 55px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .about-us .p {
@@ -217,8 +214,6 @@ footer div {
   font-weight: 700;
   color: #1e1e1e;
   font-size: 22px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .about-us .the-story-of-phantom {
@@ -227,9 +222,10 @@ footer div {
   left: 458px;
   font-family: "marvin-round";
   color: #0c0c0c
-  font-size: 55px;
   text-align: center;
+  font-size: 55px;
 
+  text
 }
 
 .about-us .info {
@@ -241,8 +237,6 @@ footer div {
   font-weight: 700;
   color: #1e1e1e;
   font-size: 22px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .about-us .story {
@@ -262,8 +256,6 @@ footer div {
   font-weight: 500;
   color: #1e1e1e;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .about-us .aboutfooter {
@@ -332,8 +324,6 @@ footer div {
   font-size: 20px;
   line-height: 28.1px;
   position: absolute;
-  letter-spacing: 0;
-  white-space: nowrap;
 }
 
 .quote .emailbox {
@@ -358,8 +348,6 @@ footer div {
   font-size: 20px;
   line-height: 28.1px;
   position: absolute;
-  letter-spacing: 0;
-  white-space: nowrap;
 }
 
 .quote .phonebox {
@@ -384,8 +372,6 @@ footer div {
   font-size: 25px;
   line-height: 35.2px;
   position: absolute;
-  letter-spacing: 0;
-  white-space: nowrap;
 }
 
 .quote .image-upload {
@@ -405,8 +391,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .image-upload-text {
@@ -420,8 +404,6 @@ footer div {
   font-size: 25px;
   line-height: 35.2px;
   position: absolute;
-  letter-spacing: 0;
-  white-space: nowrap;
 }
 
 .quote .max {
@@ -433,8 +415,6 @@ footer div {
   font-weight: 700;
   color: #ff0000;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .imageupload {
@@ -477,8 +457,6 @@ footer div {
   font-weight: 500;
   color: #f8f8ff;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .no-file {
@@ -490,8 +468,6 @@ footer div {
   font-weight: 500;
   color: #575757;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .apparel-choice {
@@ -511,8 +487,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .back-img {
@@ -524,8 +498,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .request {
@@ -537,9 +509,6 @@ footer div {
   font-weight: 400;
   color: #0c0c0c;
   font-size: 55px;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .quote .follow-the-link {
@@ -552,8 +521,6 @@ footer div {
   color: #0c0c0c;
   font-size: 18px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .span {
@@ -561,7 +528,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 18px;
-  letter-spacing: 0;
 }
 
 .quote .list-style-numbers {
@@ -573,8 +539,6 @@ footer div {
   font-weight: 500;
   color: transparent;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .list-style {
@@ -594,8 +558,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .apparel {
@@ -609,8 +571,6 @@ footer div {
   font-size: 25px;
   line-height: 35.2px;
   position: absolute;
-  letter-spacing: 0;
-  white-space: nowrap;
 }
 
 .quote .quantity {
@@ -624,8 +584,6 @@ footer div {
   font-size: 25px;
   line-height: 35.2px;
   position: absolute;
-  letter-spacing: 0;
-  white-space: nowrap;
 }
 
 .quote .example-box {
@@ -649,8 +607,6 @@ footer div {
   font-weight: 500;
   color: #575757;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .rectangle-3 {
@@ -673,8 +629,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .message {
@@ -685,8 +639,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 18px;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .quote .ellipse {
@@ -746,9 +698,7 @@ footer div {
   font-weight: 400;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
   line-height: 29px;
-  white-space: nowrap;
 }
 
 .quote .pieces2 {
@@ -760,9 +710,6 @@ footer div {
   font-weight: 400;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .quote .pieces3 {
@@ -774,9 +721,6 @@ footer div {
   font-weight: 400;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .quote .pieces4 {
@@ -788,9 +732,6 @@ footer div {
   font-weight: 400;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .quote .rectangle-4 {
@@ -874,9 +815,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .shop .jovian-price {
@@ -888,9 +826,6 @@ footer div {
   color: #0c0c0c;
   font-size: 20px;
   text-align: right;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .shop .featured-section {
@@ -909,9 +844,6 @@ footer div {
   font-weight: 500;
   color: #0c0c0c;
   font-size: 20px;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .shop .anarchist-price {
@@ -923,9 +855,6 @@ footer div {
   color: #0c0c0c;
   font-size: 20px;
   text-align: right;
-  letter-spacing: 0;
-  line-height: 29px;
-  white-space: nowrap;
 }
 
 .shop .subtitle {
@@ -938,9 +867,7 @@ footer div {
   font-weight: 400;
   color: #f8f8ff;
   font-size: 36px;
-  letter-spacing: 0;
   line-height: 50.6px;
-  white-space: nowrap;
 }
 
 .shop .shop-footer {
@@ -962,9 +889,6 @@ footer div {
   color: #0c0c0c;
   font-size: 55px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .shop .p {
@@ -977,8 +901,6 @@ footer div {
   color: #0c0c0c;
   font-size: 24px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .shop .these-chicken {
@@ -991,8 +913,6 @@ footer div {
   color: #0c0c0c;
   font-size: 18px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
 }
 
 .shop .img {
@@ -1020,9 +940,6 @@ footer div {
   color: #0c0c0c;
   font-size: 24px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .shop .apparel {
@@ -1034,9 +951,6 @@ footer div {
   color: #0c0c0c;
   font-size: 24px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .shop .screen-print {
@@ -1048,9 +962,6 @@ footer div {
   color: #0c0c0c;
   font-size: 24px;
   text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
 }
 
 .shop .rectangle-3 {
