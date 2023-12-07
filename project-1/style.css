@@ -101,6 +101,13 @@ nav {
   Height: 408px;
 }
 
+.lion-stats {
+  width: 713px;
+  height: 507px;
+  margin left: 900px;
+}
+
+
 .flex-column {
   display: flex;
   flex-wrap:wrap;
