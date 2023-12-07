@@ -215,6 +215,7 @@ nav li a:hover {
 .jaguar-img {
   width: 673px;
   Height: 284px;
+  top: 300px;
 }
 
 .tiger-img {
@@ -281,15 +282,15 @@ footer {
 .jaguar-img {
   width: 819px;
   Height: 347px;
-  margin-top: 500px;
+  margin-top: 375px;
   padding-left: 50px;
 }
 
 .jag-glance {
   width: 483px;
   height: 552px;
-  margin-top: 350px;
-  padding-right: -100px;
+  margin-top: 250px;
+margin-left: 50px;
 }
 
 .lion-row {
@@ -300,20 +301,6 @@ footer {
   flex: 70%;
 }
 
-.jaguar {
-  position: absolute;
-  width: 447px;
-  height: 114px;
-  top: 143px;
-  left: 497px;
-  font-family: 'Dangrek', sans-serif;
-  color: black;
-  font-size: 128px;
-  letter-spacing: 10.24px;
-  text-align: center;
-  white-space: nowrap;
-}
-
 .jag-row {
   display: flex;
 }
@@ -322,9 +309,254 @@ footer {
   flex: 70%;
 }
 
-.panther {
-  width: 626px;
-  height: 265px;
+.jag-page {
+  background-color: white;
+  display: felx;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.jag-page .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2306px;
+  position: relative;
+}
+
+.jag-page .background {
+  position: absolute;
+  width: 1440px;
+  height: 101px;
+  top: 2205px;
+  left: 0;
+}
+
+.jag-page .jaguar {
+  position: absolute;
+  width: 703px;
+  height: 114px;
+  top: 120px;
+  left: 369px;
+  font-family: 'dangrek';
+  color: black;
+  font-size: 128px;
+  text-align: center;
+  letter-spacing: 10.24px;
+}
+
+.jag-page .information{
+  position: absolute;
+  width: 1356px;
+  height: 1211px;
+  top: 970px;
+  left: 50px;
+}
+
+.jag-page .info-appear {
+  position: absolute;
+  width: 631px;
+  height: 396px;
+  top: 77px;
+  left: 710px;
+  font-family: 'Darker Grotesque';
+  color: black;
+  font-size: 24px;
+  letter-spacing: 1.92px;
+}
+
+.jag-page .text-wrapper {
+font-family: 'Darker Grotesque';
+letter-spacing: 1.92px;
+font-size: 24px;
+}
+
+.jag-page .panther {
+  position: absolute;
+  font-family: 'dangrek';
+  top: 430px;
+  left: 720px;
+}
+
+.jag-page .info-temper {
+  position: absolute;
+  width: 628px;
+  height: 330px;
+  top: 386px;
+  left: 0;
+  font-family: 'Darker Grotesque';
+  color: black;
+  font-size: 24px;
+  letter-spacing: 1.92px;
+}
+
+.jag-page .info-care {
+  position: absolute;
+  width: 610px;
+  height: 297px;
+  top: 857px;
+  left: 0px;
+  font-family: 'Darker Grotesque';
+  letter-spacing: 1.92px;
+  font-size: 24px;
+  color: black;
+}
+
+.jag-page .info-spec {
+  position: absolute;
+  width: 630px;
+  height: 231px;
+  top: 927px;
+  left: 710px;
+  font-family: 'Darker Grotesque';
+  letter-spacing: 1.92px;
+  font-size: 24px;
+  color: black;
+}
+
+.jag-page .jag-grid {
+  position: absolute;
+  width: 1356px;
+  height: 1211px;
+  top: 0;
+  left: 0;
+}
+
+.jag-page .rectangle-detail {
+  position: absolute;
+  width: 190px;
+  height: 50px;
+  top: 0px;
+  left: 0;
+  background-color: #F2C275;
+}
+
+.jag-page .rectangle-appear {
+  position: absolute;
+  width: 228px;
+  height: 50px;
+  top: 0;
+  left: 677px;
+  background-color: #F2C275;
+}
+
+.jag-page .rectangle-temper {
+  position: absolute;
+  width: 228px;
+  height: 50px;
+  top: 310px;
+  left: 0;
+  background-color: #F2C275;
+}
+
+.jag-page .rectangle-care {
+  position: absolute;
+  width: 328px;
+  height: 50px;
+  top: 780px;
+  left: 0;
+  background-color: #F2C275;
+}
+
+.jag-page .rectangle-mainten {
+  position: absolute;
+  width: 388px;
+  height: 50px;
+  top: 850px;
+  left: 673px;
+  background-color: #F2C275;
+}
+
+
+.jag-page .details {
+  position: absolute;
+  width: 156px;
+  height: 34px;
+  top: 7px;
+  left: 17px;
+  font-family: 'Brandon Grotesque', bold;
+  letter-spacing: 1.92px;
+  font-size: 24px;
+  color: white;
+}
+
+
+.jag-page .appearance {
+  position: absolute;
+  width: 201px;
+  height: 34px;
+  top: 7px;
+  left: 690px;
+  font-family: 'Brandon Grotesque', bold;
+  letter-spacing: 1.92px;
+  font-size: 24px;
+  color: white;
+}
+
+.jag-page .temper {
+  position: absolute;
+  width: 201px;
+  height: 34px;
+  top: 317px;
+  left: 14px;
+  font-family: 'Brandon Grotesque', bold;
+  letter-spacing: 1.92px;
+  font-size: 24px;
+  color: white;
+}
+
+.jag-page .care {
+  position: absolute;
+  width: 304px;
+  height: 34px;
+  top: 787px;
+  left: 12px;
+  font-family: 'Brandon Grotesque', bold;
+  letter-spacing: 1.92px;
+  font-size: 24px;
+  color: white;
+}
+
+.jag-page .special {
+  position: absolute;
+  width: 366px;
+  height: 34px;
+  top: 857px;
+  left: 684px;
+  color: white;  
+  text-align: center;
+  font-family: 'brandon grotesque', bold;
+  font-size: 24px;
+
+}
+
+.jag-page .height {
+  position: absolute;
+  width: 388px;
+  height: 165px;
+  top: 77px;
+  left: 0px;
+  color: black; 
+  font-family: 'darker grotesque', bold;
+  font-size: 24px;
+}
+
+.jag-page .span {
+  font-weight: 900;
+}
+
+.jag-page .textwrapper-2 {
+  font-weight: 600;
+  font-family: 'Darker Grotesque';
+}
+
+.jag-page .img {
+position: absolute;
+width: 626px;
+height: 265px;
+top: 518px;
+left: 727px;
+object-fit: cover;
 }
 
 .leopard {
