@@ -191,6 +191,7 @@ nav li a:hover {
   margin-top:60px;
   flex-wrap:wrap;
 }
+
 .flexbox section {
   flex:1;
 }
@@ -358,18 +359,37 @@ footer {
 .leopard-page .details {
   position: absolute;
   width: 597px;
-  top: 0px;
-  left: 697px;
+  top: 865px;
+  left: 90px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
   color: black;
 }
 
-.tiger-page .span {
+.leopard-page .rectangle-detail {
+  background-color: #DDDDDD;
+  position: absolute;
+  width: 140px;
+  height: 50px;
+  top: 860px;
+  left: 70px;
+}
+
+.leo-details {
+  position: absolute;
+  width: 597px;
+  top: 900px;
+  left: 70px;
+  font-family: 'Brandon Grotesque', bold;
+  font-size: 24px;
+  color: black;
+}
+
+.leopard-page .span {
   font-weight: 900;
 }
 
-.tiger-page .textwrapper-2 {
+.leopard-page .textwrapper-2 {
   font-weight: 600;
   font-family: 'Darker Grotesque';
 }
@@ -531,8 +551,8 @@ footer {
   position: absolute;
   width: 388px;
   height: 50px;
-  top: 1410px;
-  left: 683px;
+  top: 1870px;
+  left: 0;
 }
 
 .tiger-page .appearance {
@@ -579,17 +599,17 @@ footer {
   left: 11px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
-  color: black;
+  color: white;
   letter-spacing: 1.92px;
 
 }
 
 
-.tiger-page .due-to {
+.tiger-page .info-spec {
   position: absolute;
   width: 1190px;
   height: 198x;
-  top: 1961px;
+  top: 1930px;
   left: 43px;
   font-family: 'Darker Grotesque';
   font-size: 24px;
