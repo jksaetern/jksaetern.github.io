@@ -20,18 +20,21 @@ body.subpage {
 h1 {
   color:black; 
   font-family: 'Dangrek';
-  font-size:60px;
+  font-size:96px;
   display: flex;
-  margin-top: 0px;
-  margin-left: 420px;
+  margin-top: 40px;
+  margin-left: 190px;
+  letter-spacing: 7.68px;
+  font-weight: 400;
 }
 
 h2 {
-  color:black; 
+  color:#FF7F00; 
   font-family: 'Dangrek';
-  font-size: 60px;
+  font-size: 32px;
   display: flex;
-  margin-top: 90px;
+  margin-top: -100px;
+  margin-left: 500px;
 }
 
 .male h1 {
@@ -67,13 +70,6 @@ h3 {
   font-family: 'Darker Grotesque';
   font-size: 14px;
 
-}
-
-h2 {
-  margin:0;
-}
-img {
-  width:100%;
 }
 
 a { text-decoration:none;}
