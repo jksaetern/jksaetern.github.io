@@ -222,10 +222,6 @@ footer div {
   left: 458px;
   font-family: "marvin-round";
   color: #0c0c0c
-  text-align: center;
-  font-size: 55px;
-
-  text
 }
 
 .about-us .info {
@@ -891,7 +887,7 @@ footer div {
   text-align: center;
 }
 
-.shop .p {
+.shop .this-shop {
   position: absolute;
   width: 717px;
   top: 250px;
@@ -984,7 +980,6 @@ footer div {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width 100%;
 }
 
 .apparel-info .div {
@@ -1002,7 +997,7 @@ footer div {
   left: 0;
   background-image: url(./images/sizing.png);
   background-size: cover;
-  background-position: 50%; 50%;
+  background-position: 50%;
 }
 
 .apparel-info .apparel-catalogue {
