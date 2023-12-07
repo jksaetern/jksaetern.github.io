@@ -221,16 +221,22 @@ nav li a:hover {
 .lion-img {
   width:292px;
   height: 479px;
+  margin-left: -800px;
 }
 .jaguar-img {
+  position: absolute;
   width: 673px;
   Height: 284px;
-  top: 300px;
+  margin-top: 60px;
+  margin-left: -800px;
 }
 
 .tiger-img {
+  position: absolute;
   width: 586px;
   height: 284px;
+  margin-top: 450px;
+  margin-left: -1100px;
 }
  
 .leopard-img {
@@ -321,7 +327,7 @@ footer {
   background-color: #F2C275;
 }
 
-.jaguar-img {
+.jaguar-img2 {
   width: 819px;
   Height: 347px;
   margin-top: 375px;
