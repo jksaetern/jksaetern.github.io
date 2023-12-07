@@ -998,6 +998,7 @@ footer div {
   background-image: url(./images/sizing.png);
   background-size: cover;
   background-position: 50% 50%;
+  width: 100%;
 }
 
 .apparel-info .apparel-catalogue {
