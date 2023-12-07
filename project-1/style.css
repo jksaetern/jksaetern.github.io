@@ -203,6 +203,10 @@ nav li a:hover {
   flex:50%;
 }
 
+.leopardpage .flexbox div {
+  flex:50%;
+}
+
 .lion-img {
   width:292px;
   height: 479px;
@@ -322,6 +326,54 @@ footer {
   height: 265px;
 }
 
+.leopard {
+  position: absolute;
+  width: 447px;
+  height: 114px;
+  top: 143px;
+  left: 497px;
+  font-family: 'Dangrek', sans-serif;
+  color: black;
+  font-size: 128px;
+  letter-spacing: 10.24px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.leo-glance {
+  display: flex;
+  width: 723.32px;
+  height: 275px;
+  margin-top: 350px;
+  margin-left: 60px;
+}
+
+.leopard-img {
+  width: 609.72px;
+  height: 530px;
+  margin-left: 600px;
+  margin-top: -100px;
+}
+
+.leopard-page .details {
+  position: absolute;
+  width: 597px;
+  top: 0px;
+  left: 697px;
+  font-family: 'Brandon Grotesque', bold;
+  font-size: 24px;
+  color: black;
+}
+
+.tiger-page .span {
+  font-weight: 900;
+}
+
+.tiger-page .textwrapper-2 {
+  font-weight: 600;
+  font-family: 'Darker Grotesque';
+}
+
 
 
 
@@ -353,8 +405,8 @@ footer {
   position: absolute;
   width: 1353px;
   height: 924px;
-  top: 970;
-  left: 43;
+  top: 950px;
+  left: px;
 }
 
 
@@ -362,7 +414,7 @@ footer {
   position: absolute;
   width: 447px;
   height: 114px;
-  top: 143px;
+  top: 50px;
   left: 497px;
   font-family: 'Dangrek', sans-serif;
   color: black;
@@ -372,10 +424,10 @@ footer {
   white-space: nowrap;
 }
 
-.tiger-page .the-tiger {
+.tiger-page .info-appear {
   position: absolute;
   width: 631px;
-  top: 69px;
+  top: 1000px;
   left: 729px;
   font-family: 'Darker Grotesque';
   font-size: 24px;
@@ -383,11 +435,11 @@ footer {
   letter-spacing: 1.92px;
 }
 
-.tiger-page .text-wrapper {
+.tiger-page .info-temper {
   position: absolute;
   width: 628px;
   height: 297;
-  top: 537px;
+  top: 1487px;
   left: 0;
   font-family: 'Darker Grotesque';
   font-size: 24px;
@@ -395,11 +447,11 @@ footer {
   letter-spacing: 1.92px;
 }
 
-.tiger-page .p {
+.tiger-page .info-care {
   position: absolute;
   width: 610px;
   height: 330px;
-  top: 537px;
+  top: 1487px;
   left: 727px;
   font-family: 'Darker Grotesque';
   font-size: 24px;
@@ -410,8 +462,8 @@ footer {
 .tiger-page .height {
   position: absolute;
   width: 597px;
-  top: 0px;
-  left: 697px;
+  top: 1020px;
+  left: px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
   color: black;
@@ -426,12 +478,12 @@ footer {
   font-family: 'Darker Grotesque';
 }
 
-.tiger-page .rectangle {
+.tiger-page .rectangle-detail {
   background-color: #FF7F00;
   position: absolute;
   width: 190px;
   height: 50px;
-  top: 0;
+  top: 950px;
   left: 0;
 }
 
@@ -439,7 +491,7 @@ footer {
   position: absolute;
   width: 156px;
   height: 34px;
-  top: 7px;
+  top: 957px;
   left: 17px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
@@ -447,47 +499,47 @@ footer {
   letter-spacing: 1.92px;
 }
 
-.tiger-page .rectangle-2 {
+.tiger-page .rectangle-appear {
   background-color: #FF7F00;
   position: absolute;
   width: 228px;
   height: 50px;
-  top: 0;
+  top: 950px;
   left: 683px;
 }
 
-.tiger-page .rectangle-3 {
+.tiger-page .rectangle-temp {
   background-color: #FF7F00;
   position: absolute;
   width: 228px;
   height: 50px;
-  top: 460px;
+  top: 1410px;
   left: 0;
 }
 
-.tiger-page .rectangle-4 {
+.tiger-page .rectangle-care {
   background-color: #FF7F00;
   position: absolute;
   width: 328px;
   height: 50px;
-  top: 460px;
+  top: 1410px;
   left: 683px;
 }
 
-.tiger-page .rectangle-5 {
+.tiger-page .rectangle-special {
+  background-color: #FF7F00;
   position: absolute;
-  background-color: #ff7f00;
   width: 388px;
-  height: 50x;
-  top: 920;
-  left: 0;
+  height: 50px;
+  top: 1410px;
+  left: 683px;
 }
 
 .tiger-page .appearance {
   position: absolute;
   width: 201px;
   height: 34px;
-  top: 7px;
+  top: 957px;
   left: 697px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
@@ -499,7 +551,7 @@ footer {
   position: absolute;
   width: 201px;
   height: 34px;
-  top: 467px;
+  top: 1417px;
   left: 13px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
@@ -507,12 +559,12 @@ footer {
   letter-spacing: 1.92px;
 }
 
-.tiger-page .care-maintenance {
+.tiger-page .care {
   position: absolute;
   width: 304px;
   height: 34px;
-  top: 467px;
-  left: 695px;
+  top: 1417px;
+  left: 697px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
   color: white;
@@ -523,11 +575,12 @@ footer {
   position: absolute;
   width: 366px;
   height: 34px;
-  top: 927px;
+  top: 1877px;
   left: 11px;
   font-family: 'Brandon Grotesque', bold;
   font-size: 24px;
-  color: white;letter-spacing: 1.92px;
+  color: black;
+  letter-spacing: 1.92px;
 
 }
 
@@ -547,7 +600,7 @@ footer {
   position: absolute;
   width: 483px;
   height: 552px;
-  top: 340px;
+  top: 300px;
   left: 910px;
   object-fit: cover;
 }
