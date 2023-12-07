@@ -19,20 +19,20 @@ body.subpage {
 
 h1 {
   color:black; 
-  font-family: 'Dangrek', sans-serif;
-  font-size:96px;
+  font-family: 'Dangrek';
+  font-size:60px;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-top: -40px;
+  margin-left: 375px;
 }
 
 h2 {
-  color: #FF7F00; 
-  font-family: 'Dangrek', sans-serif;
-  font-size:36px;
+  color:black; 
+  font-family: 'Dangrek';
+  font-size: 60px;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-top: 90px;
+  margin-left: 300px;
 }
 
 h3 {
@@ -94,17 +94,22 @@ nav {
 .lion-male {
   width: 296px;
   Height: 486px;
+  margin-top: 320px;
+  margin-left: 300px;
 }
 
 .lion-female {
   width: 204px;
   Height: 408px;
+  margin-top: 400px;
+  margin-left: 100px;
+
 }
 
 .lion-stats {
   width: 713px;
   height: 507px;
-  margin left: 900px;
+
 }
 
 
@@ -197,35 +202,25 @@ nav li a:hover {
   Height: 321px;
 }
 
-.glance {
-  display:flex;
-  position:relative;
-  border: 1px solid #FF7F00;
-  width:60%;
-  /* margin values are top right bottom left */
-  margin:140px auto 80px auto;
-}
-.glance div {
-  flex:1;
-  padding: 30px 20px
+.lion-glance {
+  display: flex;
+  width: 973px;
+  height: 369px;
+  margin-left:  225px;
 }
 
-.glance h2 {
-  position:absolute;
-  background-color:#FF7F00;
-  color:white;
-  padding:8px 6px;
-}
-.glance h2.top {
-  top:0px;
-  left:-1;
-}
-.lionpage .glance h2.bottom {
-  bottom: -73px;
-  left: -1px;
-}
-.lionpage .glance h2 { 
-  background-color:#C98C35;
+.lion {
+  position: absolute;
+  width: 447px;
+  height: 114px;
+  top: 143px;
+  left: 497px;
+  font-family: 'Dangrek', sans-serif;
+  color: black;
+  font-size: 128px;
+  letter-spacing: 10.24px;
+  text-align: center;
+  white-space: nowrap;
 }
 
 footer a {
@@ -272,11 +267,11 @@ footer {
   padding-right: -100px;
 }
 
-.row {
+.lion-row {
   display: flex;
 }
 
-.column {
+.lion-column {
   flex: 70%;
 }
 
@@ -294,6 +289,13 @@ footer {
   white-space: nowrap;
 }
 
+.jag-row {
+  display: flex;
+}
+
+.jag-column {
+  flex: 70%;
+}
 
 
 
