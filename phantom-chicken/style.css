@@ -1065,7 +1065,7 @@ footer div {
 }
 
 .apparel-info .rectangle {
-  position: flex;
+  position: absolute;
   width: 635px;
   height: 586px;
   top: 0;
