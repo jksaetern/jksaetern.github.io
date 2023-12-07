@@ -258,6 +258,46 @@ footer {
   background-color: #F2C275;
 }
 
+.jaguar-img {
+  width: 819px;
+  Height: 347px;
+  margin-top: 500px;
+  padding-left: 50px;
+}
+
+.jag-glance {
+  width: 483px;
+  height: 552px;
+  margin-top: 350px;
+  padding-right: -100px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 70%;
+}
+
+.jaguar {
+  position: absolute;
+  width: 447px;
+  height: 114px;
+  top: 143px;
+  left: 497px;
+  font-family: 'Dangrek', sans-serif;
+  color: black;
+  font-size: 128px;
+  letter-spacing: 10.24px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+
+
+
+
 .tiger-page {
   background-color: #ffffff;
   display: flex;
