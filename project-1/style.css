@@ -37,7 +37,7 @@ h2 {
   margin-left: 500px;
 }
 
-.male h1 {
+h4 {
   color:black; 
   font-family: 'Dangrek';
   font-size:60px;
@@ -47,11 +47,13 @@ h2 {
 }
 
 
-.female h2 {
+h5 {
   color:black; 
   font-family: 'Dangrek';
   font-size: 60px;
   display: flex;
+  margin-top: -40px;
+  margin-left: 100px;
 }
 
 h3 {
@@ -121,9 +123,21 @@ nav {
 .lion-stats {
   width: 713px;
   height: 507px;
-
+  margin-top: 40px;
+  margin-left: 500px;
 }
 
+.details {
+  position: absolute;
+  width: 156px;
+  height: 34px;
+  top: 2235px;
+  left: 50px;
+  font-family: 'Brandon Grotesque', bold;
+  font-size: 24px;
+  color:black;
+  letter-spacing: 1.92px;
+}
 
 .flex-column {
   display: flex;
@@ -224,12 +238,43 @@ nav li a:hover {
   Height: 321px;
 }
 
+
 .lion-glance {
   display: flex;
   width: 973px;
   height: 369px;
   margin-left:  225px;
 }
+
+.details-male {
+  position: absolute;
+  width: 597px;
+  left: 70px;
+  margin-top: 70px;
+  font-family: 'Brandon Grotesque', bold;
+  font-size: 24px;
+  color: black;
+}
+
+.details-female {
+  position: absolute;
+  width: 597px;
+  left: 70px;
+  margin-top: 200px;
+  font-family: 'Brandon Grotesque', bold;
+  font-size: 24px;
+  color: black;
+}
+
+.span {
+  font-weight: 900;
+}
+
+.textwrapper-2 {
+  font-weight: 600;
+  font-family: 'Darker Grotesque';
+}
+
 
 .lion {
   position: absolute;
@@ -244,6 +289,7 @@ nav li a:hover {
   text-align: center;
   white-space: nowrap;
 }
+
 
 footer a {
   color: white;
